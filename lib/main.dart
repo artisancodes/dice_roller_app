@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:first_app/gradient_container.dart';
+import 'package:dice_roller_app/gradient_container.dart';
 
 // main() function gets executed automatically.
 // By Dart, when executing the compiled app on the target device.
